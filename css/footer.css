@@ -15,10 +15,10 @@ display: flex;
 align-items: flex-start;
 justify-content: flex-start;
 flex-direction: row;
-gap: 120px;
 }
 .fotter-left{
 max-width: 264px;
+margin-right: 120px;
 }
 
 .footer-tetx {
@@ -26,6 +26,7 @@ max-width: 264px;
   color: #f4f4fd;
 }
 .social{
+  
   line-height: 1.5;
 letter-spacing: 0.02em;
 color: #fff;
