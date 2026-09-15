@@ -3,13 +3,13 @@
 }
 .team-title {
 }
-.team-wrapper{
-padding: 32px 16px;
+.team-wrapper {
+  padding: 32px 16px;
 }
 .team-list {
   display: flex;
-align-items: flex-start;
-gap: 24px;
+  align-items: flex-start;
+  gap: 24px;
 }
 .team-item {
   width: calc((100% - 24px * 3) / 4);
@@ -21,7 +21,6 @@ gap: 24px;
   background-color: #fff;
 }
 .team-avatar {
-  
 }
 .team-name {
   margin-bottom: 8px;
@@ -33,7 +32,9 @@ gap: 24px;
 }
 .team-specialist {
   text-align: center;
+  padding: 8px 0;
 }
-.socials-team{
+.socials-team {
   gap: 24px;
+  margin: auto;
 }
